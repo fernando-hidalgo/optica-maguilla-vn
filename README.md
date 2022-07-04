@@ -1,0 +1,1 @@
+Proyecto basado [en un curso de Udemy](https://www.udemy.com/course/desarrolla-sistemas-web-asp-net-core-sql-server-vuejs-vuetify/) para el desarrollo de aplicaciones web mediante VueJS, NET Core y SQL Server, creando un remake del proyecto de öptica Maguilla
